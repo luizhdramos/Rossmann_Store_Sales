@@ -1,0 +1,11 @@
+numpy
+pandas
+inflection
+seaborn
+xgboost
+scipy
+boruta
+matplotlib
+ipython
+scikit-learn
+
